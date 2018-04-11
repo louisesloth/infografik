@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAK;EACH,gBAAgB,EAAE,IAAI",
+"mappings": "AAAA;;;;GAIG",
 "sources": ["stil.scss"],
 "names": [],
 "file": "stil.css"
